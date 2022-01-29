@@ -1,0 +1,3 @@
+.phpunit.result.caches
+.git
+.idea
