@@ -30,4 +30,4 @@ jobs:
       run: composer install --prefer-dist --no-progress
 
     - name: PHP Lint
-      run: vendor/bin/phplint
+      run: composer run-script lint
