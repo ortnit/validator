@@ -1,3 +1,4 @@
 .phpunit.result.caches
 .git
 .idea
+.github
