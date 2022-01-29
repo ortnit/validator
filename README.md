@@ -1,3 +1,5 @@
+![workflow badge](https://github.com/ortnit/php-example/actions/workflows/php.yml/badge.svg)
+
 # Readme
 
 Docker Image with ubuntu 20.04
