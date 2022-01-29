@@ -31,3 +31,9 @@ jobs:
 
     - name: PHP Lint
       run: composer run-script lint
+
+    - name: Code Sniffer
+      run: composer run-script code-sniffer
+
+    - name: Unit Testing
+      run: composer run-script test
