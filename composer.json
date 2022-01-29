@@ -1,5 +1,6 @@
 {
     "name": "ortnit/project",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Ortnit\\Project\\": "src/",
