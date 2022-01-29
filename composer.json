@@ -1,6 +1,7 @@
 {
     "name": "ortnit/project",
     "license": "MIT",
+    "description": "php example project",
     "autoload": {
         "psr-4": {
             "Ortnit\\Project\\": "src/",
