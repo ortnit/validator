@@ -27,6 +27,7 @@
     "scripts": {
         "test": "XDEBUG_MODE=coverage vendor/bin/phpunit --coverage-text",
         "lint": "vendor/bin/phplint -c .phplint.yml",
-        "code-sniffer": "vendor/bin/phpcs"
+        "code-sniffer": "vendor/bin/phpcs",
+        "analyse": "vendor/bin/phpstan"
     }
 }
