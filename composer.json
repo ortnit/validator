@@ -4,8 +4,12 @@
     "description": "php example project",
     "autoload": {
         "psr-4": {
-            "Ortnit\\Project\\": "src/",
-            "Ortnit\\ProjectTest\\": "test/"
+            "Ortnit\\Project\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Test\\": "tests/"
         }
     },
     "require": {
