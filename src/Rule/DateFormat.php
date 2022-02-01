@@ -9,7 +9,7 @@ namespace Ortnit\Validator\Rule;
  *
  * @package Ortnit\Validator\Rule
  */
-class DateType extends AbstractRule
+class DateFormat extends AbstractRule
 {
     /**
      * @param mixed $value

@@ -16,8 +16,7 @@
         "ext-dom": "*",
         "ext-mbstring": "*",
         "ext-xml": "*",
-        "ext-xmlwriter": "*",
-        "cakephp/chronos": "^2.3"
+        "ext-xmlwriter": "*"
     },
     "require-dev": {
         "phpunit/phpunit": "^9.5",

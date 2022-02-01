@@ -17,6 +17,7 @@ class NullableTest extends TestCase
         $rule = new Nullable(new StringType());
         $this->assertInstanceOf(Nullable::class, $rule);
         $this->assertInstanceOf(ValidatorInterface::class, $rule);
+        $this->assertInstanceOf(ValidatorInterface::class, $rule->getRule());
         return $rule;
     }
 
