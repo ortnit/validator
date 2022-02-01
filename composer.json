@@ -1,22 +1,23 @@
 {
-    "name": "ortnit/project",
+    "name": "ortnit/validatpr",
     "license": "MIT",
-    "description": "php example project",
+    "description": "validator lib",
     "autoload": {
         "psr-4": {
-            "Ortnit\\Project\\": "src/"
+            "Ortnit\\Validator\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Test\\": "tests/"
+            "Ortnit\\Tests\\": "tests/"
         }
     },
     "require": {
         "ext-dom": "*",
         "ext-mbstring": "*",
         "ext-xml": "*",
-        "ext-xmlwriter": "*"
+        "ext-xmlwriter": "*",
+        "cakephp/chronos": "^2.3"
     },
     "require-dev": {
         "phpunit/phpunit": "^9.5",

@@ -1,4 +1,4 @@
-![workflow badge](https://github.com/ortnit/php-example/actions/workflows/php.yml/badge.svg)
+![workflow badge](https://github.com/ortnit/validator/actions/workflows/php.yml/badge.svg)
 
 # Readme
 
