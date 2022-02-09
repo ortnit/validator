@@ -1,5 +1,5 @@
 {
-    "name": "ortnit/validatpr",
+    "name": "ortnit/validator",
     "license": "MIT",
     "description": "validator lib",
     "autoload": {
